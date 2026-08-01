@@ -1,0 +1,6 @@
+{
+  "name": "MindBridge",
+  "description": "MindBridge - AI Emotional Wellness Companion, Journaling, Analytics & Specialist Directory",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
